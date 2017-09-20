@@ -14,7 +14,7 @@ each individual font can be enabled or disabled simply by changing the true/fals
 
 Build variables can be edited via the ./includes/variables.styl file.
 
-Simply edit as you see fit, comment out or remove unwanted includes in `bootstrap.styl` file then compile.
+Simply edit as you see fit, then compile.
 
 compile
 
