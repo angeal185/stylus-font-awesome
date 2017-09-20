@@ -1,0 +1,23 @@
+{
+  "name": "stylus-font-awesome",
+  "version": "1.0.0",
+  "authors": [
+    "ben eaves"
+  ],
+  "description": "stylus port of font-awesome",
+  "main": "font-awesome.styl",
+  "keywords": [
+    "stylus",
+    "font-awesome",
+	"font-awesome.css",
+    "port",
+    "stylus-font-awesome",
+    "font-awesome-stylus"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/angeal185/stylus-font-awesome",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/angeal185/stylus-font-awesome.git"
+  }
+}

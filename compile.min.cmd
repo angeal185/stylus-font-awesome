@@ -1,0 +1,1 @@
+stylus font-awesome.styl -c -o ./dist/css/font-awesome.min.css
